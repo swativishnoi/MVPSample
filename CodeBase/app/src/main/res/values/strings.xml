@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Codebase</string>
+
+    <!-- Alert strings -->
+    <string name="toast_network_not_available">No Internet connected</string>
+    <string name="toast_unfortunately_error">Unfortunately an error has occurred!</string>
+    <string name="error_500">Internal server error</string>
+    <string name="error_400">Please Check you action! you are not allow do this</string>
+    <string name="error_401">Please check your input</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="blogs">Blogs</string>
+    <string name="faq">FAQ</string>
+    <string name="terms">Terms</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy">Privacy</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="signout">Signout</string>
+</resources>
